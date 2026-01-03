@@ -17,7 +17,7 @@ from qrcode.image.styles.colormasks import SolidFillColorMask
 from PyQt5.QtGui import QPixmap, QColor
 from PyQt5.QtWidgets import QApplication, QMainWindow, QFileDialog, QColorDialog, QMessageBox
 from PyQt5 import QtCore
-from QR_Generator.scripts.UI_QR_Generator import Ui_MainWindow
+from UI_QR_Generator import Ui_MainWindow
 
 
 class QRGenerator(QMainWindow):
