@@ -4,15 +4,29 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/CarlosM1024/QR_Generator/pulls)
 
+---
+
 ## 📝 Description
 
 **QR_Generator** is a lightweight Python-based tool designed to custom high-quality QR codes. This project focus on simplicity and efficiency, providing a command-line interface to generate assets ready for digital or print use.
+
+---
 
 ## ✨ Features
 
 * **Instant Generation:** Convert any URL into a `.png` QR code in seconds.
 * **Batch Ready:** Designed to be easily integrated into larger Python workflows.
 * **Template Support:** Includes a `plantillas/` directory for future customization of QR styles.
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+    <img src="screenshot/image.png" alt="Captura de pantalla"/>
+</p>
+
+---
 
 ## 📁 Directory Structure
 
@@ -25,6 +39,8 @@ QR_Generator/
 ├── LICENSE        # MIT License
 └── README.md      # Project documentation
 ```
+
+---
 
 ## 🚀 Getting Started
 
@@ -54,6 +70,8 @@ QR_Generator/
     pip install qrcode pyqt5
     ```
 
+---
+
 ## 🛠️ Usage
 
 1. Run the main script:
@@ -64,9 +82,13 @@ QR_Generator/
 
 2. The QR code will be generated and we recommend to be saved in the `out` directory.
 
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## 🤝 Contributing
 
@@ -78,9 +100,10 @@ If you'd like to contribute to this project, feel free to submit a pull request.
 4. Push to the branch.
 5. Submit a pull request.
 
+---
+
 ## 👤 Author
 
 **Carlos Antonio Martinez Miranda**
 
 GitHub: [@CarlosM1024](https://github.com/CarlosM1024)
-
